@@ -6,6 +6,7 @@ function ButtonInButton () {
     <Button>
       <div>
         button
+        <Button />
       </div>
     </Button>
   );
